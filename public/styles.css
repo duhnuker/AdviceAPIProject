@@ -1,0 +1,19 @@
+/* Colour Palette 
+    Black: 000000,
+    Dark Olive Green: 3E432E,
+    Army Green: 616F39,
+    Highlighter Green: A7D129
+*/
+
+body {
+    background-color: black;
+    color: #3E432E;
+    display: flex;
+    justify-content: center;
+}
+
+.content-container {
+    display: flex;
+    justify-content: center;
+    color: #3E432E;
+}
